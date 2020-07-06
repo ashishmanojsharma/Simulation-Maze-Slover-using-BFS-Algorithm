@@ -17,3 +17,8 @@
 <a href="https://ibb.co/CvyprVT"><img src="https://i.ibb.co/RPKG5QV/snap4.jpg" alt="snap4" border="0"></a>
 <h2>Following result is shown on command prompt.</h2>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/8NNPr9h/snap5.jpg" alt="snap5" border="0"></a>
+<h2>Following improvements can be made:- </h2>
+<ol>
+  <li>Maze can be generated dynamically.</li>
+  <li>More better UI can be generated.</li>
+</ol>  
